@@ -1,11 +1,6 @@
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--            🌌  AMAN GUPTA · FRONTEND UNIVERSE PROFILE            -->
-<!--   Custom SVG art lives in /assets — keep that folder in repo!    -->
-<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ⭐ CUSTOM ANIMATED HERO — twinkling stars, 3D ringed planet, orbiting moons -->
 <img src="assets/hero.svg" width="100%" alt="Aman Gupta — Frontend Universe" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=800&color=79c0ff&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Simpplr;4%2B+years+building+scalable+frontend+systems;10%2C000%2B+users+onboarded+on+platforms+I+architected;AI-powered+workflows+with+MCP+%2B+Claude" alt="Typing intro" />
@@ -23,7 +18,7 @@
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=🧑‍🚀+ABOUT+ME" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=ABOUT+ME" alt="About Me" />
 </div>
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" alt="Engineering in motion"/>
@@ -43,7 +38,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=🛠️+TECH+STACK" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=TECH+STACK" alt="Tech Stack" />
 
 <br/>
 
@@ -86,7 +81,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=💼+EXPERIENCE" alt="Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=EXPERIENCE" alt="Experience" />
 </div>
 
 <br/>
@@ -99,7 +94,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=🚀+FEATURED+PROJECT" alt="Featured Project" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=FEATURED+PROJECT" alt="Featured Project" />
 </div>
 
 <br/>
@@ -126,7 +121,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=🏆+ACHIEVEMENTS" alt="Achievements" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=ACHIEVEMENTS" alt="Achievements" />
 
 <br/>
 
@@ -145,7 +140,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=📊+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=GITHUB+ANALYTICS" alt="GitHub Analytics" />
 
 <br/>
 
@@ -171,7 +166,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=📡+LET'S+CONNECT" alt="Let's Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=LET%27S+CONNECT" alt="Let's Connect" />
 
 <br/>
 
