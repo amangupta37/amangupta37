@@ -95,13 +95,13 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
 <img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=e6edf3" />
 <img src="https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=e6edf3" />
-<img src="https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2U2ZWRmMyIgZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTExIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMTgyYTUuOTg1IDUuOTg1IDAgMCAwLTMuOTk4IDIuOSA2LjA0NiA2LjA0NiAwIDAgMCAuNzQzIDcuMDk3IDUuOTggNS45OCAwIDAgMCAuNTE2IDQuOTEgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTUgMi45QTUuOTg1IDUuOTg1IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTg5IDUuOTg5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczeiIvPjwvc3ZnPg==&logoColor=e6edf3" />
 <img src="https://img.shields.io/badge/Antigravity-0d1117?style=flat-square&logo=google&logoColor=4285F4" />
 <img src="https://img.shields.io/badge/Snitch-0d1117?style=flat-square&logo=shieldsdotio&logoColor=3fb950" />
 <img src="https://img.shields.io/badge/GitHub%20Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=e6edf3" />
 <img src="https://img.shields.io/badge/v0-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3" />
 <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/ChatGPT-0d1117?style=flat-square&logo=openai&logoColor=10A37F" />
+<img src="https://img.shields.io/badge/ChatGPT-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzEwQTM3RiIgZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTExIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMTgyYTUuOTg1IDUuOTg1IDAgMCAwLTMuOTk4IDIuOSA2LjA0NiA2LjA0NiAwIDAgMCAuNzQzIDcuMDk3IDUuOTggNS45OCAwIDAgMCAuNTE2IDQuOTEgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTUgMi45QTUuOTg1IDUuOTg1IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTg5IDUuOTg5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczeiIvPjwvc3ZnPg==&logoColor=10A37F" />
 </td>
 </tr>
 </table>
