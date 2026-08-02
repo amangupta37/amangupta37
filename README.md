@@ -41,17 +41,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=ABOUT+ME" alt="About Me" />
 </div>
 
+
+<p>&nbsp;</p>
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" alt="Engineering in motion"/>
 
-I'm a **Senior Software Engineer** who builds frontend systems designed to survive scale — currently leading frontend at **Simpplr**, previously shipping products for 3+ years at **Antino Labs**.
+I'm a **Senior Software Engineer** who builds frontend systems designed to survive scale — currently handling frontend at **Simpplr**, previously shipping products for 3+ years at **Antino**.
 
-**What I actually do:**
+## 🚀 What I actually do
 
-- 🏗️ **Architect from scratch** — led a team to build a scalable frontend architecture with **95% code coverage** and a **35% shorter dev cycle**
-- 🤖 **Engineer AI workflows** — built **custom MCP servers wired to Claude Opus 4.8** for automated component reuse: **35% faster delivery**, **~20 eng-hours saved every sprint**
-- ⚡ **Obsess over performance** — ag-grid tables handling massive real-time data streams with **25% faster loads** and **10% lower operational costs**
-- 🔐 **Ship secure by default** — XSS protection, CSP, encrypted API layers, Digilocker-verified KYC
-- 🌱 **Lift the team** — *Exceptional Mentorship Award 2023* · tech speaker · technical writer with **2.2k+ reads on Medium**
+- 🏗️ **Architect from scratch** — Build scalable React.js & Next.js platforms with SSR/CSR, Micro Frontends, and reusable Component Libraries.
+- 🤖 **AI-Native Development** — Leverage AI agents, MCPs, Cursor, and automation to accelerate engineering while keeping humans in control of architecture and code quality.
+- ⚡ **Obsess over performance** — Optimize Core Web Vitals, bundle size, rendering, caching, and runtime performance to deliver fast user experiences.
+- 🔐 **Ship secure** — Build secure-by-default applications with authentication, authorization, secure APIs, XSS/CSRF protection, and dependency hygiene.
+- 🌱 **Mentorship** — Help engineers grow through architecture reviews, code reviews, pair programming, and engineering best practices.
+- 🎤 **Speaker** — Share practical insights on modern frontend architecture, AI workflows, and engineering productivity at meetups and community events.
+- ✍️ **Engineering Blogs** — Write about deep dives on React, Next.js, frontend architecture, AI-assisted development, and interview experiences.
 
 <br clear="right"/>
 
