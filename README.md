@@ -191,8 +191,8 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=C9D1D9" height="170" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta37&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=f0883e&currStreakLabel=58a6ff" height="170" alt="Streak" />
+<img src="https://github-readme-stats.shion.dev/api?username=amangupta37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=C9D1D9&cache_seconds=86400" height="170" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=amangupta37&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=f0883e&currStreakLabel=58a6ff" height="170" alt="Streak" />
 
 <br/><br/>
 
