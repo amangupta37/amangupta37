@@ -36,16 +36,9 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=ABOUT+ME" alt="About Me" />
-</div>
-
-
-<p>&nbsp;</p>
-
-<img align="right"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" hspace="24" alt="Engineering in motion"/>
+<table>
+<tr>
+<td valign="top">
 
 I'm a **Senior Software Engineer** who builds frontend systems designed to survive scale — currently handling frontend at **Simpplr**, previously shipping products for 3+ years at **Antino**.
 
@@ -59,6 +52,15 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 - 🎤 **Speaker** — Share practical insights on modern frontend architecture, AI workflows, and engineering productivity at meetups and community events.
 - ✍️ **Engineering Blogs** — Write about deep dives on React, Next.js, frontend architecture, AI-assisted development, and interview experiences.
 
+</td>
+<td width="24"></td>
+<td valign="top" width="380">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Engineering in motion"/>
+
+</td>
+</tr>
+</table>
 <br clear="right"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
