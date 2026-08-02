@@ -166,6 +166,7 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=ACHIEVEMENTS" alt="Achievements" />
 
 <br/>
+<br/>
 
 <img src="https://img.shields.io/badge/🌟%20Emerging%20Leader%20Award%202025-Antino%20Labs-58a6ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🏆%20Exceptional%20Mentorship%20Award%202023-Antino%20Labs-a371f7?style=for-the-badge&labelColor=0d1117" />
