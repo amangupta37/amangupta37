@@ -36,10 +36,12 @@
 
 </div>
 
-<table>
-<tr>
-<td valign="top">
+its not working in when pushing to github  
 
+<p>&nbsp;</p>
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Engineering in motion"/>
+<div>
 I'm a **Senior Software Engineer** who builds frontend systems designed to survive scale — currently handling frontend at **Simpplr**, previously shipping products for 3+ years at **Antino**.
 
 ### 🚀 What I actually do
@@ -52,15 +54,8 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 - 🎤 **Speaker** — Share practical insights on modern frontend architecture, AI workflows, and engineering productivity at meetups and community events.
 - ✍️ **Engineering Blogs** — Write about deep dives on React, Next.js, frontend architecture, AI-assisted development, and interview experiences.
 
-</td>
-<td width="24"></td>
-<td valign="top" width="380">
+</div>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Engineering in motion"/>
-
-</td>
-</tr>
-</table>
 <br clear="right"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
