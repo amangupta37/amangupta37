@@ -45,7 +45,7 @@
 
 <p>&nbsp;</p>
 
-<img align="right" hspace="48" vspace="8" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Engineering in motion"/>
+<img align="right"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Engineering in motion"/>
 
 I'm a **Senior Software Engineer** who builds frontend systems designed to survive scale — currently handling frontend at **Simpplr**, previously shipping products for 3+ years at **Antino**.
 
