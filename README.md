@@ -73,24 +73,74 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 <b>⚛️ State & Data</b><br/><br/>
 <img src="https://img.shields.io/badge/Redux%20Toolkit-0d1117?style=flat-square&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/Redux%20Saga-0d1117?style=flat-square&logo=redux&logoColor=999999" />
 <img src="https://img.shields.io/badge/React%20Query-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154" />
 <img src="https://img.shields.io/badge/RTK%20Query-0d1117?style=flat-square&logo=redux&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=react&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/MobX-0d1117?style=flat-square&logo=mobx&logoColor=FF9955" />
-<img src="https://img.shields.io/badge/AG--Grid-0d1117?style=flat-square&logo=databricks&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Context%20API-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Axios-0d1117?style=flat-square&logo=axios&logoColor=5A29E4" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 <b>✨ Motion & Visualization</b><br/><br/>
 <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=three.js&logoColor=e6edf3" />
 <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />
 <img src="https://img.shields.io/badge/Framer%20Motion-0d1117?style=flat-square&logo=framer&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Lottie-0d1117?style=flat-square&logo=lottiefiles&logoColor=00DDB3" />
+<img src="https://img.shields.io/badge/React%20Spring-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-<img src="https://img.shields.io/badge/Formik%20%2B%20Yup-0d1117?style=flat-square&logo=react&logoColor=2563EB" />
+<img src="https://img.shields.io/badge/Recharts-0d1117?style=flat-square&logo=react&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/D3.js-0d1117?style=flat-square&logo=d3dotjs&logoColor=F9A03C" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
+<b>📝 Forms & Validation</b><br/><br/>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-0d1117?style=flat-square&logo=reacthookform&logoColor=EC5990" />
+<img src="https://img.shields.io/badge/Formik-0d1117?style=flat-square&logo=formik&logoColor=2563EB" />
+<img src="https://img.shields.io/badge/TanStack%20Form-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154" />
+<img src="https://img.shields.io/badge/Zod-0d1117?style=flat-square&logo=zod&logoColor=3E67B1" />
+<img src="https://img.shields.io/badge/Yup-0d1117?style=flat-square&logo=checkmarx&logoColor=3fb950" />
+<img src="https://img.shields.io/badge/Valibot-0d1117?style=flat-square&logo=v&logoColor=FFDD40" />
+<img src="https://img.shields.io/badge/Joi-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Hookform%20Resolvers-0d1117?style=flat-square&logo=reacthookform&logoColor=EC5990" />
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<b>📊 Tables & Grids</b><br/><br/>
+<img src="https://img.shields.io/badge/AG%20Grid-0d1117?style=flat-square&logo=databricks&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/TanStack%20Table-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154" />
+<img src="https://img.shields.io/badge/MUI%20X%20Data%20Grid-0d1117?style=flat-square&logo=mui&logoColor=007FFF" />
+<img src="https://img.shields.io/badge/Handsontable-0d1117?style=flat-square&logo=airtable&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/React%20Data%20Grid-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tabulator-0d1117?style=flat-square&logo=guzzle&logoColor=d29922" />
+<img src="https://img.shields.io/badge/Ant%20Design%20Table-0d1117?style=flat-square&logo=antdesign&logoColor=0170FE" />
+<img src="https://img.shields.io/badge/Material%20React%20Table-0d1117?style=flat-square&logo=mui&logoColor=007FFF" />
+</td>
+<td align="center" width="33%" valign="top">
+<b>🛠️ Tools & Security</b><br/><br/>
+<img src="https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=0052CC" />
+<img src="https://img.shields.io/badge/Chrome%20DevTools-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Crypto.js-0d1117?style=flat-square&logo=letsencrypt&logoColor=3fb950" />
+<img src="https://img.shields.io/badge/CSP-0d1117?style=flat-square&logo=mozilla&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+</td>
+<td align="center" width="33%" valign="top">
+<b>🧪 Testing</b><br/><br/>
+<img src="https://img.shields.io/badge/Jest-0d1117?style=flat-square&logo=jest&logoColor=C21325" />
+<img src="https://img.shields.io/badge/React%20Testing%20Library-0d1117?style=flat-square&logo=testinglibrary&logoColor=E33332" />
+<img src="https://img.shields.io/badge/Cypress-0d1117?style=flat-square&logo=cypress&logoColor=69D3A7" />
+<img src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33" />
+<img src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=6E9F18" />
+<img src="https://img.shields.io/badge/MSW-0d1117?style=flat-square&logo=testinglibrary&logoColor=FF6A33" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" valign="top">
 <b>🤖 AI-Native Tooling</b><br/><br/>
 <img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
 <img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=e6edf3" />
