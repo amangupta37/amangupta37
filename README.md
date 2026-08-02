@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=800&color=79c0ff&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Simpplr;5%2B+years+building+scalable+frontend+systems;10%2C000%2B+users+onboarded+on+platforms+I+architected;AI-powered+workflows+with+MCP+%2B+Claude;Technical+Writer+%40+Medium;Cracked+5%2B+top+product-based+companies;Follow+for+engineering+%26+real+interview+experiences" alt="Typing intro" />
 
 <br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/amangupta37" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/></a>
 &nbsp;
