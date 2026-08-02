@@ -36,8 +36,6 @@
 
 </div>
 
-its not working in when pushing to github  
-
 <p>&nbsp;</p>
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Engineering in motion"/>
