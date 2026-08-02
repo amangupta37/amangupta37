@@ -66,6 +66,8 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=TECH+STACK" alt="Tech Stack" />
 
 <br/>
+<p>&nbsp;</p>
+
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,threejs,tailwind,sass,styledcomponents,materialui,jest,firebase,git,vite,webpack,babel,figma,postman&perline=9&theme=dark" alt="Core stack" />
 
