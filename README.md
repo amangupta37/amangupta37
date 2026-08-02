@@ -2,16 +2,36 @@
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Aman Gupta — Frontend Universe" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=800&color=79c0ff&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Simpplr;4%2B+years+building+scalable+frontend+systems;10%2C000%2B+users+onboarded+on+platforms+I+architected;AI-powered+workflows+with+MCP+%2B+Claude" alt="Typing intro" />
+<br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=800&color=79c0ff&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Simpplr;5%2B+years+building+scalable+frontend+systems;10%2C000%2B+users+onboarded+on+platforms+I+architected;AI-powered+workflows+with+MCP+%2B+Claude;Technical+Writer+%40+Medium;Cracked+5%2B+top+product-based+companies;Follow+for+engineering+%26+real+interview+experiences" alt="Typing intro" />
 
 <br/>
 
-<a href="https://github.com/amangupta37"><img src="https://img.shields.io/github/followers/amangupta37?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117&color=1f6feb&label=FOLLOWERS" /></a>
+<a href="https://www.linkedin.com/in/amangupta37" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=amangupta37&style=for-the-badge&color=a371f7&label=PROFILE+VISITS" alt="Profile views" />
+<a href="https://x.com/amangupta_jsx" title="Twitter / X"><img src="https://skillicons.dev/icons?i=twitter" width="52" alt="Twitter"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍-Gurgaon%2C%20India-3fb950?style=for-the-badge&labelColor=0d1117" />
+<a href="https://medium.com/@amangupta-me" title="Medium"><img src="assets/icon-medium.svg" width="52" alt="Medium"/></a>
+&nbsp;
+<a href="https://dev.to/amangupta" title="dev.to"><img src="https://skillicons.dev/icons?i=devto" width="52" alt="dev.to"/></a>
+&nbsp;
+<a href="mailto:amangupta6121998@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="52" alt="Email"/></a>
+&nbsp;
+<a href="#" title="Portfolio"><img src="assets/icon-portfolio.svg" width="52" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://instagram.com/amangupta.sde" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="52" alt="Instagram"/></a>
+&nbsp;
+<a href="https://github.com/amangupta37" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/></a>
+
+<br/>
+
+
+<a href="https://github.com/amangupta37"><img src="https://img.shields.io/github/followers/amangupta37?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22&color=1f6feb&label=FOLLOWERS" height="28" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=amangupta37&style=for-the-badge&color=a371f7&label=PROFILE+VISITS" alt="Profile views" height="28" />
+
+<br/>
 
 </div>
 

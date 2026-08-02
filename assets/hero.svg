@@ -114,7 +114,7 @@
   </g>
 
   <!-- ═════════ name + profession ═════════ -->
-  <text x="600" y="352" text-anchor="middle" class="display" font-size="66" fill="#f0f6fc" letter-spacing="6">AMAN GUPTA</text>
+  <text x="600" y="352" text-anchor="middle" class="display" font-size="66" fill="#f0f6fc" letter-spacing="6">Hi 👋, I'm Aman</text>
 
   <rect x="440" y="380" width="320" height="3" rx="1.5" fill="url(#accent)" filter="url(#soft)"/>
 
