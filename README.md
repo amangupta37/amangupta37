@@ -92,11 +92,16 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 </td>
 <td align="center" width="33%">
 <b>🤖 AI-Native Tooling</b><br/><br/>
-<img src="https://img.shields.io/badge/MCP%20Servers-0d1117?style=flat-square&logo=anthropic&logoColor=e6edf3" />
-<img src="https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=e6edf3" />
 <img src="https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=e6edf3" />
-<img src="https://img.shields.io/badge/Crypto.js%20·%20CSP-0d1117?style=flat-square&logo=letsencrypt&logoColor=3fb950" />
-<img src="https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=0052CC" />
+<img src="https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Antigravity-0d1117?style=flat-square&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Snitch-0d1117?style=flat-square&logo=shieldsdotio&logoColor=3fb950" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/v0-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/ChatGPT-0d1117?style=flat-square&logo=openai&logoColor=10A37F" />
 </td>
 </tr>
 </table>
