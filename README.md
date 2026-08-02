@@ -163,6 +163,28 @@ I'm a **Senior Software Engineer** who builds frontend systems designed to survi
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=560&height=48&lines=ACHIEVEMENTS" alt="Achievements" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🌟%20Emerging%20Leader%20Award%202025-Antino%20Labs-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🏆%20Exceptional%20Mentorship%20Award%202023-Antino%20Labs-a371f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎤%20Tech%20Talk%20·%20Git%20Behind%20The%20Scene-devkode-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/🎤%20Tech%20Talk%20·%20AI%20Native%20Frontend%20Development-React%20India%20×%20Delhi-F7DF1E?style=for-the-badge&labelColor=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/✍️%20Medium%20Technical%20Articles-2.2k%2B%20reads-3fb950?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🥈%20Web%20War%202K19--20%20Hackathon-2nd%20Place%20·%20GIET-d29922?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<sub>🎓 **B.Tech in Information Technology** · Gandhi Institute of Engineering & Technology, Odisha · 2018–2022 · CGPA 8.23</sub>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999999&color=58a6ff&center=true&vCenter=true&width=500&height=48&lines=EXPERIENCE" alt="Experience" />
 </div>
 
