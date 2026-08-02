@@ -48,7 +48,7 @@
 
 I'm a **Senior Software Engineer** who builds frontend systems designed to survive scale — currently handling frontend at **Simpplr**, previously shipping products for 3+ years at **Antino**.
 
-## 🚀 What I actually do
+### 🚀 What I actually do
 
 - 🏗️ **Architect from scratch** — Build scalable React.js & Next.js platforms with SSR/CSR, Micro Frontends, and reusable Component Libraries.
 - 🤖 **AI-Native Development** — Leverage AI agents, MCPs, Cursor, and automation to accelerate engineering while keeping humans in control of architecture and code quality.
